@@ -20,7 +20,7 @@ export const FooterContainer = styled(Container)`
 
 `;
 
-export const FooterTitle = styled((props) => (
+export const FooterTitle = styled((props: any) => (
     <Typography component={'h2'} variant={'body2'} {...props} />
 ))`
     font-weight: bold;

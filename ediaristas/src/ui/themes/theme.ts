@@ -38,7 +38,7 @@ const theme = createTheme(
             fontFamily: 'Poppins'
         },
         shape: {
-            borderRadius: '3px'
+            borderRadius: 3
         },
         components: {
             MuiButton: {
